@@ -4,15 +4,15 @@ layout: home
 
 hero:
   name: "Velm"
-  text: "Modular Laravel"
-  tagline: A truly Decoupled Modular Architecture and Engine for Laravel
+  text: "Laravel Modules Engine"
+  tagline: Develop modular Laravel applications with zero strings attached!.
   actions:
     - theme: brand
       text: Read the Docs
-      link: /docs
+      link: /docs/
     - theme: alt
-      text: Quick Tutorial
-      link: /api-examples
+      text: Quick Examples
+      link: /velm-examples/
 
 features:
   - title: Feature A
