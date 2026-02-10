@@ -30,7 +30,7 @@ export default defineConfig({
   },
   markdown: {
     typographer: true,
-    theme: 'one-dark-pro',
+    theme: {light: 'github-light', dark: 'one-dark-pro'},
     defaultHighlightLang: 'php',
     lineNumbers: true,
   }

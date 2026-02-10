@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "Velm"
-  text: "A truly Decoupled Modular Architecture for Laravel"
-  tagline: My great project tagline
+  text: "Modular Laravel"
+  tagline: A truly Decoupled Modular Architecture and Engine for Laravel
   actions:
     - theme: brand
       text: Read the Docs

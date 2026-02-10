@@ -132,11 +132,6 @@ it tries to be **correct**.
 
 ## Get Started
 
-- 📘 **[Getting Started →](/getting-started)**
-- 🧠 **[Mental Model →](/concepts/mental-model)**
-- 🧱 **[Model Buckets →](/concepts/buckets)**
-- 🔗 **[Method Pipelines →](/concepts/pipelines)**
-
 ---
 
 ## Philosophy
