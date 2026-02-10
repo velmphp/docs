@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./chunks/framework.DI6M9D4h.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"docs/concepts/registry.md","filePath":"docs/concepts/registry.md"}'),s={name:"docs/concepts/registry.md"};function c(o,a,n,i,p,d){return r(),t("div")}const f=e(s,[["render",c]]);export{m as __pageData,f as default};

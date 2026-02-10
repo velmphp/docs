@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as t}from"./chunks/framework.DI6M9D4h.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"docs/policies/overview.md","filePath":"docs/policies/overview.md"}'),r={name:"docs/policies/overview.md"};function s(c,a,i,n,p,d){return t(),o("div")}const v=e(r,[["render",s]]);export{l as __pageData,v as default};
