@@ -49,9 +49,9 @@
   --vp-c-default-3: var(--vp-c-gray-3);
   --vp-c-default-soft: var(--vp-c-gray-soft);
 
-  --vp-c-brand-1: var(--vp-c-indigo-1);
-  --vp-c-brand-2: var(--vp-c-indigo-2);
-  --vp-c-brand-3: var(--vp-c-indigo-3);
+  --vp-c-brand-1: #2D2F8F;
+  --vp-c-brand-2:  #2D2F8F;
+  --vp-c-brand-3:  #2D2F8F;
   --vp-c-brand-soft: var(--vp-c-indigo-soft);
 
   --vp-c-tip-1: var(--vp-c-brand-1);
@@ -94,23 +94,21 @@
   --vp-home-hero-name-color: transparent;
   --vp-home-hero-name-background: -webkit-linear-gradient(
     120deg,
-    #2563EB 30%,
-    #F59E0B
+    #2D2F8F 30%,
+    #7C3AED
   );
 
   --vp-home-hero-image-background-image: linear-gradient(
     -45deg,
-    #2563EB 50%,
-    #F59E0B 50%
+    #2D2F8F 50%,
+    #7C3AED 50%
   );
   --vp-home-hero-image-filter: blur(44px);
 }
 
 /* Fonts */
 :root {
-  --vp-font-family-base: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-    "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji",
-    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --vp-font-family-base: Poppins, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   --vp-font-family-mono: "JetBrains Mono", "Fira Code",
 }
 
