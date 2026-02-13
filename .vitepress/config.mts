@@ -4,7 +4,23 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Velm",
   description: "A truly Decoupled Modular Architecture for Laravel",
+  head: [
+    [
+      'link',
+      { rel: 'preconnect', href: 'https://fonts.googleapis.com' }
+    ],
+    [
+      'link',
+      { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' }
+    ],
+    [
+      'link',
+      { href: 'https://fonts.googleapis.com', rel: 'stylesheet' }
+    ]
+  ],
   themeConfig: {
+    siteTitle: "<strong class='gradient-text'>Velm</strong>",
+    logo: '/logo-concept.svg',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
@@ -70,6 +86,10 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/velmphp/velm' }
     ],
+    footer: {
+      message: 'Released under the <a href="https://github.com/velmphp/velm/blob/main/LICENSE.md">MIT License</a>.',
+      copyright: 'Copyright © 2025-present <a href="https://github.com/coolsam726">Sam Maosa</a>'
+    }
   },
   markdown: {
     typographer: true,
