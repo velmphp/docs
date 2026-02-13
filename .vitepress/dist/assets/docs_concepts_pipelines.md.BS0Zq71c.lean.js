@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as s}from"./chunks/framework.DI6M9D4h.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"docs/concepts/pipelines.md","filePath":"docs/concepts/pipelines.md"}'),c={name:"docs/concepts/pipelines.md"};function o(n,p,a,i,r,d){return s(),t("div")}const m=e(c,[["render",o]]);export{_ as __pageData,m as default};
