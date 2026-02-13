@@ -3,8 +3,11 @@ layout: home
 title: Velm
 hero:
   name: Velm
-  text: Laravel Composable Modules
-  tagline: Modular runtime composition without inheritance, traits, or compilation
+  text: Composable Modules framework for Laravel
+  tagline: A runtime composition framework for building modular, maintainable Laravel applications.
+  image:
+    src: /logo-concept.svg
+    alt: Velm
   actions:
     - theme: brand
       text: Get Started
