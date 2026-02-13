@@ -1,1 +1,0 @@
-import{_ as e,c as s,o}from"./chunks/framework.DI6M9D4h.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"docs/models/scopes.md","filePath":"docs/models/scopes.md"}'),t={name:"docs/models/scopes.md"};function c(a,r,d,n,p,m){return o(),s("div")}const l=e(t,[["render",c]]);export{i as __pageData,l as default};

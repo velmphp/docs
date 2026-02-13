@@ -19,8 +19,11 @@ export default defineConfig({
     ]
   ],
   themeConfig: {
-    siteTitle: "<strong class='gradient-text'>Velm</strong>",
-    logo: '/logo-concept.svg',
+    siteTitle: false,
+    logo: {
+      light: '/banner-dark.svg',
+      dark: '/banner.svg'
+    },
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
@@ -93,7 +96,7 @@ export default defineConfig({
   },
   markdown: {
     typographer: true,
-    theme: {light: 'one-dark-pro', dark: 'one-dark-pro'},
+    theme: {light: 'github-light', dark: 'one-dark-pro'},
     defaultHighlightLang: 'php',
     lineNumbers: true,
   }
